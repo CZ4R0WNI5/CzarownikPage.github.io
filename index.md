@@ -1,11 +1,15 @@
-Welcome in czarownik page
+## Welcome in czarownik page
 
 Hello im czarownik, i like games, arts and discord
 
 All my links:
+
 discord-
+
 facebook-Not Created
+
 instagram-Not Created
+
 Steam-
 
 ### Markdown
