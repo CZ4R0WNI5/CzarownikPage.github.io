@@ -2,7 +2,11 @@ Welcome in czarownik page
 
 Hello im czarownik, i like games, arts and discord
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+All my links:
+discord-
+facebook-Not Created
+instagram-Not Created
+Steam-
 
 ### Markdown
 
