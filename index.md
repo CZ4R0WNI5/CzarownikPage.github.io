@@ -1,6 +1,6 @@
 Welcome in czarownik page
 
-You can use the [editor on GitHub](https://github.com/CZ4R0WNI5/CzarownikPage.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hello im czarownik, i like games, arts and discord
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
