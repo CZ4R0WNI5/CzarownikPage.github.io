@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Czarownik page
 
 You can use the [editor on GitHub](https://github.com/CZ4R0WNI5/CzarownikPage.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
